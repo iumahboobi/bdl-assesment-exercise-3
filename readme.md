@@ -9,9 +9,12 @@
  
  ## My favorite Languages are:
  - English 
+ - German
  - Pashto 
  - Arabic and 
  - Dari 
+ - Urdu
+ - Hindi
  ## The Computer Languages I like the most are: 
  - Javascript.
  
