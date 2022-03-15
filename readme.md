@@ -11,7 +11,7 @@
  - English 
  - German
  - Pashto 
- - Arabic and 
+ - Arabic
  - Dari 
  - Urdu
  - Hindi
