@@ -12,7 +12,7 @@
  - Pashto 
  - Arabic and 
  - Dari 
- *The computer Language I like the most is 
+ ## The Computer Languages I like the most are: 
  - Javascript.
  
  ## My Favorite Restaurants are :
